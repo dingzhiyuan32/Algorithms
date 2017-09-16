@@ -32,7 +32,7 @@ int main()
 	int value;
 	vector<int> a;
 	cout << "Input the elements to be sorted." << endl;
-  cout << "Input other character except integers to end input." << endl;
+	cout << "Input other character except integers to end input." << endl;
 
 	while(cin >> value)
 	{
